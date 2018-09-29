@@ -15,3 +15,8 @@ alias .3="cd ../../.."
 alias .4="cd ../../../.."
 alias .5="cd ../../../../../"
 
+# Apt shortcuts
+alias install="sudo apt install"
+alias remove="sudo apt remove"
+alias aptclean="sudo apt autoremove"
+

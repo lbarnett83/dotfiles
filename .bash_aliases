@@ -19,4 +19,5 @@ alias .5="cd ../../../../../"
 alias install="sudo apt install"
 alias remove="sudo apt remove"
 alias aptclean="sudo apt autoremove"
+alias update="sudo apt update"
 
